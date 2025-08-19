@@ -10,9 +10,9 @@ config_version=5
 
 [application]
 
-config/name="Rust Godot Template"
-config/features=PackedStringArray("4.5", "GL Compatibility")
-config/icon="uid://26sgeg1imro5"
+config/name="New Game Project"
+config/features=PackedStringArray("4.4", "GL Compatibility")
+config/icon="res://icon.svg"
 
 [rendering]
 
