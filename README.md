@@ -20,6 +20,6 @@ minimal-rust-godot-template/
    cargo build
    ```
 3. Open the `godot/` project in Godot 4.4.1+ (works with 4.5+)
-4. Find `MyClass` in the Create Node dialog
+4. Find `MyClass` in docs
 
 <a href="https://ibb.co/1YyYt6Nf"><img src="https://i.ibb.co/CpCp32y5/Untitled.png" alt="Untitled" border="0"></a>
