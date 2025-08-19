@@ -18,3 +18,11 @@ impl IObject for MyStaticClass {
         Self { base }
     }
 }
+
+#[godot_api]
+impl MyStaticClass {
+    #[func]
+    fn my_static_method(&self) {
+        godot_print!("This is a static method in MyStaticClass!");
+    }
+}
