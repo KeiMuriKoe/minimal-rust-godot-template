@@ -22,4 +22,4 @@ minimal-rust-godot-template/
 3. Open the `godot/` project in Godot 4.4.1+ (works with 4.5+)
 4. Find `MyClass` in the Create Node dialog
 
-![Screenshot](https://ibb.co/1YyYt6Nf)
+![Screenshot](<a href="https://ibb.co/1YyYt6Nf"><img src="https://i.ibb.co/CpCp32y5/Untitled.png" alt="Untitled" border="0"></a>)
